@@ -1,5 +1,5 @@
 from datetime import date
-from utils import add, subtract
+from utils import add, subtract, multiply, divide
 
 print("===== Simple Calculator =====")
 
