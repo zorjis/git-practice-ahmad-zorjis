@@ -2,5 +2,9 @@
 
 Name: Ahmad Zorjis
 
-This project is created to practice Git and GitHub.
-It contains a simple Python calculator program.
+## Description
+A simple Python calculator project created to practice Git and GitHub.
+
+## Features
+- Addition
+- Subtraction
